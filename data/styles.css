@@ -76,10 +76,15 @@
 .radio_button {
   text-align:left;
 }
+.html_button {
+  text-align:center;
+}
 ._流程形状 {
 }
 ._连接线 {
 }
 .marker {
   color:#FFFFFF;
+}
+.flow_shape {
 }
